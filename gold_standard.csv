@@ -1,0 +1,418 @@
+﻿occupations;female;male;total;binary
+Adjunkt;70,7;29,3;100;1
+Advokat;48,1;51,9;100;0
+Advokatassistent;85,9;14,1;100;1
+Advokatsekretær;96,5;3,5;100;1
+Agronom;38,2;61,8;100;0
+Aksjemegler;27,9;72,1;100;0
+Aktivitør;66,2;33,8;100;1
+Aktuar;34,2;65,8;100;0
+Allmennlege;33,8;66,2;100;0
+Aluminiumskonstruktør;13,3;86,7;100;0
+Ambulansearbeider;38,9;61,1;100;0
+Animatør;17,6;82,4;100;0
+Anleggsgartner;21,1;78,9;100;0
+Anleggsmaskinfører;1,7;98,3;100;0
+Anleggsmaskinmekaniker;1,4;98,6;100;0
+Apoteker;66,8;33,2;100;1
+Apotektekniker;96,4;3,6;100;1
+Arbeidsmedisiner;60,9;39,1;100;1
+Arealplanlegger;58,3;41,7;100;1
+Arkeolog;59,8;40,2;100;1
+Arkitekt;49,9;50,1;100;0
+Arkivar;71,9;28,1;100;1
+Arrangementsplanlegger;48,9;51,1;100;0
+Art director;44,9;55,1;100;0
+Asfaltør;9,4;90,6;100;0
+Attføringskonsulent;71,2;28,8;100;1
+Audiograf;69,9;30,1;100;1
+Automasjonsingeniør;14;86;100;0
+Automatiker;5,3;94,7;100;0
+Avioniker;5;95;100;0
+Avisbud;24,6;75,4;100;0
+Avløser;31,2;68,8;100;0
+Badevakt;50,8;49,2;100;1
+Baker;40,2;59,8;100;0
+Banemontør;4,6;95,4;100;0
+Barista;77,3;22,7;100;1
+Barne- og ungdomsarbeider;82,1;17,9;100;1
+Barnehageassistent;84,8;15,2;100;1
+Barnehagelærer;91,1;8,9;100;1
+Barnehagestyrer;90;10;100;1
+Barnevernspedagog;86,1;13,9;100;1
+Bartender;53,3;46,7;100;1
+Båtbygger;6;94;100;0
+Betongfagarbeider;1,2;98,8;100;0
+Bibliotekar;80,7;19,3;100;1
+Bilberger;1,5;98,5;100;0
+Bilklargjører;18,7;81,3;100;0
+Billakkerer;6,9;93,1;100;0
+Bilmekaniker;1,15;98,85;100;0
+Bilselger;4,9;95,1;100;0
+Bilskadereparatør;1,6;98,4;100;0
+Bioingeniør;83,5;16,5;100;1
+Biokjemiker;48,8;51,2;100;0
+Biolog;45,6;54,4;100;0
+Blikkenslager;1,3;98,7;100;0
+Blomsterdekoratør;95,9;4,1;100;1
+Bokbinder;31;69;100;0
+Bokhandler;81,9;18,1;100;1
+Bonde;29,7;70,3;100;0
+Bore- og vedlikeholdsoperatør;8,2;91,8;100;0
+Branningeniør;9,7;90,3;100;0
+Brannkonstabel;4,5;95,5;100;0
+Brønnoperatør;3,1;96,9;100;0
+Brønnoperatør havbunnsinstallasjoner;2,8;97,2;100;0
+Bunadtilvirker;91,4;8,6;100;1
+Bussjåfør;7,1;92,9;100;0
+Butikkmedarbeider;63,2;36,8;100;1
+Butikksjef;46,2;53,8;100;0
+Butikkslakter;39;61;100;0
+Byggdrifter vaktmester;8,8;91,2;100;0
+Byggingeniør;18,3;81,7;100;0
+Chassispåbygger;0,7;99,3;100;0
+CNC-operatør;10,1;89,9;100;0
+Dansepedagog;85,7;14,3;100;1
+Danser;61,7;38,3;100;1
+Dataelektroniker;9,1;90,9;100;0
+Dataingeniør;18,1;81,9;100;0
+Diakon;82,2;17,8;100;1
+Diakonimedarbeider;73,8;26,2;100;1
+Diplomat;53,3;46,7;100;1
+Dirigent;47;53;100;0
+Dommer;45,7;54,3;100;0
+Driftsoperatør i idrettsanlegg;16,1;83,9;100;0
+Driftstekniker;13,9;86,1;100;0
+Dykker;1,6;98,4;100;0
+Dyrepasser;79,2;20,8;100;1
+Dyrepleier;92,8;7,2;100;1
+Eiendomsmegler;34,6;65,4;100;0
+Elektriker;2,5;97,5;100;0
+Elektroingeniør;10,3;89,7;100;0
+Elektroreparatør;6,8;93,2;100;0
+Energimontør;2,8;97,2;100;0
+Energioperatør;5,6;94,4;100;0
+Ergoterapeut;89,8;10,2;100;1
+Fagarbeider industriell matproduksjon;36,1;63,9;100;0
+Fagarbeider sjømatproduksjon;36,2;63,8;100;0
+Faglærer;50,1;49,9;100;1
+Fagoperatør i farging, trykking og etterbehandling;55,8;44,2;100;1
+Fagoperatør i fiskeredskapsfaget;39;61;100;0
+Fagoperatør i grafisk emballasje;17,5;82,5;100;0
+Fagoperatør i grafisk produksjonsteknikk;21,8;78,2;100;0
+Fagoperatør i industrisømfaget;76,2;23,8;100;1
+Fagoperatør i limtreproduksjonsfaget;11,3;88,7;100;0
+Fagoperatør i polymerkompositt herdeplast;15;85;100;0
+Fagoperatør i produksjonsteknikk;20,3;79,7;100;0
+Fagoperatør i termoplast;14,6;85,4;100;0
+Fagoperatør i trelastfaget;11,2;88,8;100;0
+Fagoperatør i trikotasje;59,5;40,5;100;1
+Familierådgiver;77,7;22,3;100;1
+Farmasøyt;82,9;17,1;100;1
+Feier;9,3;90,7;100;0
+Fengselsbetjent;40,5;59,5;100;0
+Finansanalytiker;46,1;53,9;100;0
+Finmekaniker;9,1;90,9;100;0
+Fiskehelsebiolog;19,7;80,3;100;0
+Fiskeoppdretter;16,1;83,9;100;0
+Fisker;12;88;100;0
+Fjell- og bergverksarbeider;5,4;94,6;100;0
+Flygeleder;25,2;74,8;100;0
+Flyinstruktør;9,1;90,9;100;0
+Flyktningkonsulent;66;34;100;1
+Flymotormekaniker;5;95;100;0
+Flystrukturmekaniker;4,9;95,1;100;0
+Flysystemmekaniker;4,9;95,1;100;0
+Forretningsutvikler;35,8;64,2;100;0
+Forsikringsrådgiver;47;53;100;0
+Forsker;43,9;56,1;100;0
+Førsteamanuensis;47,2;52,8;100;0
+Fotballspiller;10,2;89,8;100;0
+Fotballtrener;10,5;89,5;100;0
+Fotograf;33,8;66,2;100;0
+Fotterapeut;95,3;4,7;100;1
+Frisør;89,9;10,1;100;1
+FU-operatør;9,8;90,2;100;0
+Fysiker;35,2;64,8;100;0
+Fysioterapeut;77;23;100;1
+Garnframstiller;66,7;33,3;100;1
+Gartner;45,8;54,2;100;0
+Garver;58,3;41,7;100;1
+Geodataingeniør;28,3;71,7;100;0
+Geofysiker;32,8;67,2;100;0
+Geolog;35,4;64,6;100;0
+Gjenvinningsoperatør;7,4;92,6;100;0
+Glassfagarbeider;6,7;93,3;100;0
+Grafisk designer;50,3;49,7;100;1
+Grafisk trykker;21,9;78,1;100;0
+Gravferdskonsulent;41,6;58,4;100;0
+Grunnarbeider;2,4;97,6;100;0
+Grunnskolelærer;75,8;24,2;100;1
+Guide;50,4;49,6;100;1
+Gullsmed;56,1;43,9;100;1
+Heismontør;0,9;99,1;100;0
+Helsefagarbeider;85,6;14,4;100;1
+Helsesekretær;98,8;1,2;100;1
+Helsesykepleier;99,5;0,5;100;1
+Hestefaglært;81,9;18,1;100;1
+Hjelpearbeider;8;92;100;0
+Hjemmehjelp;88,5;11,5;100;1
+Hjulutrustningsreparatør;1,9;98,1;100;0
+HMS-ingeniør;39,7;60,3;100;0
+Hotelldirektør;36,1;63,9;100;0
+Hotellmedarbeider;67,6;32,4;100;1
+Hovmester;56,2;43,8;100;1
+Hovslager;23,2;76,8;100;0
+Hudpleier;99,3;0,7;100;1
+Husøkonom;87,2;12,8;100;1
+Idrettstrener;51;49;100;1
+Idrettsutøver;18,5;81,5;100;0
+IKT-servicemedarbeider;28,7;71,3;100;0
+Industridesigner;28;72;100;0
+Industriell overflatebehandler;3,6;96,4;100;0
+Industrimaler;1,1;98,9;100;0
+Industrimekaniker;4,4;95,6;100;0
+Industrimontør;5,6;94,4;100;0
+Industrirørlegger;1,7;98,3;100;0
+Industrisnekker;9,6;90,4;100;0
+Ingeniør;20,4;79,6;100;0
+Ingeniør i energi og miljø i bygg;19,4;80,6;100;0
+Innkjøper;38,9;61,1;100;0
+Inspisient;44,6;55,4;100;0
+Institusjonskokk;77;23;100;1
+Instrumentalpedagog;57;43;100;1
+Interiørarkitekt;85,4;14,6;100;1
+Interiørkonsulent;85,9;14,1;100;1
+Isolatør;1,1;98,9;100;0
+IT-administrator;21,9;78,1;100;0
+IT-konsulent;21,5;78,5;100;0
+Jordmor;99,8;0,2;100;1
+Jordskiftekandidat;21,8;78,2;100;0
+Journalist;44,2;55,8;100;0
+Jurist;63,3;36,7;100;1
+Kabinbesetning fly;79,8;20,2;100;1
+Kantinemedarbeider;65,3;34,7;100;1
+Kantor;37,7;62,3;100;0
+Kaptein;1;99;100;0
+Karriereveileder;68;32;100;1
+Kateket;70,6;29,4;100;1
+Kirketjener;31,2;68,8;100;0
+Kirkeverge;51,1;48,9;100;1
+Kiropraktor;33,1;66,9;100;0
+Kjemiingeniør;52,1;47,9;100;1
+Kjemiker;48,5;51,5;100;0
+Kjøkkensjef;32,6;67,4;100;0
+Kjole- og draktsyer;87,7;12,3;100;1
+Kjøttskjærer;6,8;93,2;100;0
+Klesdesigner;85;15;100;1
+Klinisk ernæringsfysiolog;94,7;5,3;100;1
+Klinisk sosionom;86,7;13,3;100;1
+Kokk;40,4;59,6;100;0
+Kommunikasjonsrådgiver;62;38;100;1
+Komposittbåtbygger;13,9;86,1;100;0
+Konditor;68,5;31,5;100;1
+Konduktør;41,6;58,4;100;0
+Konservator;66,8;33,2;100;1
+Kosmetolog;97,5;2,5;100;1
+Kostøkonom;61,9;38,1;100;1
+Kostymesyer;95,1;4,9;100;1
+Kranfører;2,6;97,4;100;0
+Kulde- og varmepumpemontør;1,1;98,9;100;0
+Kundeansvarlig;35,5;64,5;100;0
+Kunderådgiver i bank;55,8;44,2;100;1
+Kunst- og kulturformidler;64,5;35,5;100;1
+Kunsthåndverker;58,5;41,5;100;1
+Kystskipper;0;100;100;0
+Laborant;68,2;31,8;100;1
+Lærer;74,4;25,6;100;1
+Landbruksmaskinmekaniker;4,2;95,8;100;0
+Landbruksrådgiver;48,5;51,5;100;0
+Landmåler;33,9;66,1;100;0
+Landskapsarkitekt;63,5;36,5;100;1
+Låsesmed;2,6;97,4;100;0
+Leder;33,6;66,4;100;0
+Lege;51,6;48,4;100;1
+Legemiddelkonsulent;51,1;48,9;100;1
+Lektor;61,4;38,6;100;1
+Logistikkoperatør;17,4;82,6;100;0
+Logoped;92,2;7,8;100;1
+Lokomotivfører;6,5;93,5;100;0
+Lønnskonsulent;91,6;8,4;100;1
+Los;2,7;97,3;100;0
+Lufthavnbetjent;7;93;100;0
+Lydtekniker;8,6;91,4;100;0
+Lystekniker;26,4;73,6;100;0
+Maler;5,3;94,7;100;0
+Marin bioteknolog;59,6;40,4;100;1
+Maritim elektriker;1,1;98,9;100;0
+Markedsanalytiker;41,4;58,6;100;0
+Markedsføringskonsulent;57,5;42,5;100;1
+Markedssjef;37,7;62,3;100;0
+Maskiningeniør;7,7;92,3;100;0
+Maskinist;2,4;97,6;100;0
+Maskinsjef;0,4;99,6;100;0
+Massasjeterapeut;84,3;15,7;100;1
+Matros;4,8;95,2;100;0
+Matteknolog;68;32;100;1
+Mediedesigner;49;51;100;0
+Mediegrafiker;48,7;51,3;100;0
+Megler;31,7;68,3;100;0
+Mekaniker;1,9;98,1;100;0
+Menighetspedagog;70,3;29,7;100;1
+Meteorolog;42,5;57,5;100;0
+Miljøarbeider;65,1;34,9;100;1
+Miljørådgiver;49,9;50,1;100;0
+Miljøterapeut;69,3;30,7;100;1
+Misjonær;44,1;55,9;100;0
+Møbelsnekker;8,5;91,5;100;0
+Møbeltapetserer;28,4;71,6;100;0
+Modell;70,3;29,7;100;1
+Motormann;1,8;98,2;100;0
+Motormekaniker;1,8;98,2;100;0
+Murer;0,9;99,1;100;0
+Museumsformidler;71,5;28,5;100;1
+Musiker;40,4;59,6;100;0
+Musikkpedagog;56,8;43,2;100;1
+Naturforvalter;16,7;83,3;100;0
+NDT-kontrollør;5,9;94,1;100;0
+Negledesigner;94,4;5,6;100;1
+Økonom;56,3;43,7;100;1
+Økonomikonsulent;53,1;46,9;100;1
+Økonomisjef;34,2;65,8;100;0
+Optiker;62,1;37,9;100;1
+Organist Kantor;39,9;60,1;100;0
+Ortopediingeniør;55,1;44,9;100;1
+Ortopeditekniker;31,4;68,6;100;0
+Oversetter;61,1;38,9;100;1
+Overstyrmann;2,8;97,2;100;0
+Pedagog;69,7;30,3;100;1
+Pedagogisk-psykologisk rådgiver;89,6;10,4;100;1
+Personalrådgiver;63,5;36,5;100;1
+Personalsjef;68,7;31,3;100;1
+Personlig assistent;72,4;27,6;100;1
+Personlig trener;65,8;34,2;100;1
+Petroleumsingeniør;20,2;79,8;100;0
+Pilot;4,6;95,4;100;0
+Planteinspektør;70,7;29,3;100;1
+Plastmekaniker;14,9;85,1;100;0
+Platearbeider;1,2;98,8;100;0
+Pleiemedarbeider;77,5;22,5;100;1
+Politi;36,1;63,9;100;0
+Politibetjent;34;66;100;0
+Politijurist;57,3;42,7;100;1
+Politiker;48,1;51,9;100;0
+Pølsemaker;37,9;62,1;100;0
+Portør;24,7;75,3;100;0
+Postbud;43,7;56,3;100;0
+Prest;32,6;67,4;100;0
+Produksjonselektroniker;30,2;69,8;100;0
+Produktutvikler;34;66;100;0
+Produktutvikler fiskefôr;13,5;86,5;100;0
+Professor;31,2;68,8;100;0
+Profileringsdesigner;50,7;49,3;100;1
+Programvareutvikler;18,9;81,1;100;0
+Prosessingeniør;21,1;78,9;100;0
+Prosesstekniker;15,1;84,9;100;0
+Prosjektleder;26;74;100;0
+Provisorfarmasøyt;81,7;18,3;100;1
+Psykiater;52,6;47,4;100;1
+Psykolog;73,8;26,2;100;1
+Rådgiver i offentlig sektor;62,1;37,9;100;1
+Radiograf;73,8;26,2;100;1
+Radiolog;45,9;54,1;100;0
+Redaktør;49,6;50,4;100;0
+Regissør;39,6;60,4;100;0
+Regnskapsfører;74,2;25,8;100;1
+Reindriftsutøver;23,7;76,3;100;0
+Reiseleder;54,9;45,1;100;1
+Reiselivsmedarbeider;68,5;31,5;100;1
+Rektor skoleleder;58,4;41,6;100;1
+Rekvisitør;23,9;76,1;100;0
+Renholdsoperatør;77;23;100;1
+Resepsjonist;61,4;38,6;100;1
+Reseptarfarmasøyt;84,8;15,2;100;1
+Reservedelsekspeditør;11,5;88,5;100;0
+Revisor;49,1;50,9;100;0
+Ridelærer;89,4;10,6;100;1
+Røkter;17;83;100;0
+Rørlegger;1,2;98,8;100;0
+Saksbehandler;75,2;24,8;100;1
+Salgsfremmer;61,2;38,8;100;1
+Salgssjef;23;77;100;0
+Samfunnsgeograf;55,6;44,4;100;1
+Samfunnsøkonom;48,3;51,7;100;0
+Samfunnsplanlegger;50,9;49,1;100;1
+Sekretær;90,1;9,9;100;1
+Servitør;62,2;37,8;100;1
+Signalmontør;3,7;96,3;100;0
+Sivilingeniør;21;79;100;0
+Siviløkonom;50,1;49,9;100;1
+Sjåfør;6,5;93,5;100;0
+Skadedyrbekjemper;23,9;76,1;100;0
+Skipsmegler;12,7;87,3;100;0
+Skogbruksleder;7,4;92,6;100;0
+Skogsoperatør;3,3;96,7;100;0
+Skoleassistent;71,7;28,3;100;1
+Skolefritidsleder;80,1;19,9;100;1
+Skuespiller;49,6;50,4;100;0
+Slakter;18,4;81,6;100;0
+Smed;19,1;80,9;100;0
+Sminkør;88,9;11,1;100;1
+Snekker;2,4;97,6;100;0
+Sølvsmed;51,7;48,3;100;1
+Sosiolog;56,7;43,3;100;1
+Sosionom;76,7;23,3;100;1
+Speditør;27,3;72,7;100;0
+Spesialpedagog;92,6;7,4;100;1
+Spesialsykepleier innen psykisk helse;77,6;22,4;100;1
+Spillprogrammerer;10,3;89,7;100;0
+Sportsdommer;32,2;67,8;100;0
+Statistiker;41,8;58,2;100;0
+Steinfagarbeider;5,5;94,5;100;0
+Stillasbygger;0,5;99,5;100;0
+Stipendiat;52,8;47,2;100;1
+Støper;4,1;95,9;100;0
+Strikkehåndverker;100;0;100;1
+Studiekonsulent;72,1;27,9;100;1
+Styrmann;3,2;96,8;100;0
+Supportkonsulent;25;75;100;0
+Sveiser;2,7;97,3;100;0
+Sykepleier;90;10;100;1
+Systemadministrator;21,3;78,7;100;0
+Systemanalytiker;29,4;70,6;100;0
+Systemutvikler;14;86;100;0
+Takstmann;3,8;96,2;100;0
+Taktekker;0,6;99,4;100;0
+Tannhelsesekretær;98,6;1,4;100;1
+Tannlege;59,7;40,3;100;1
+Tannpleier;97,5;2,5;100;1
+Tanntekniker;54;46;100;1
+Tavlemontør;7,3;92,7;100;0
+Taxisjåfør;10,5;89,5;100;0
+Teknisk tegner;38,5;61,5;100;0
+Tekstforfatter;53,2;46,8;100;1
+Tekstilrenser;65,3;34,7;100;1
+Telefonselger;39,8;60,2;100;0
+Telekommunikasjonsmontør;5;95;100;0
+Tilkomsttekniker;5;95;100;0
+Tolk;58,3;41,7;100;1
+Toller;47,5;52,5;100;0
+Tømrer;1;99;100;0
+Trafikkbetjent;22,3;77,7;100;0
+Trafikklærer;23,6;76,4;100;0
+Trevaresnekker;2;98;100;0
+Trikkefører;22,2;77,8;100;0
+Turistvert;54,9;45,1;100;1
+TV-fotograf;29,4;70,6;100;0
+Undervisningsinspektør;61,8;38,2;100;1
+Urmaker;15,6;84,4;100;0
+Utstillingsdesigner;82,9;17,1;100;1
+Vaskerioperatør;60,4;39,6;100;1
+Vei- og anleggsarbeider;5;95;100;0
+Vekter;23,8;76,2;100;0
+Verktøymaker;1,1;98,9;100;0
+Vernepleier;76,3;23,7;100;1
+Veterinær;76,6;23,4;100;1
+Vikler;15,1;84,9;100;0
+Webdesigner;37,8;62,2;100;0
+Yrkessjåfør;4,4;95,6;100;0
